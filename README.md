@@ -24,16 +24,11 @@
 
 - p. 82 "As we tend to avoid what makes us uncomfortable, we are seldom conscious of the way we enacct sundry power ploys. We may sense our partner's shadowy expressions of power and draw back, accede or resist, but seldom are we free to admit our own power stratagems."
 
-- p. 99 "1. Where do my dependencies show up in the relationship?
-
+- p. 99 "i. Where do my dependencies show up in the relationship?
    2. What am I asking my partner to do for me that I, as a mature adult, need to be doing for myself?  
-
    3. How do I repeatedly constrict myself through my historically conditioned attitudes and behavior patterns?  
-
    4. Am I taking too much responsibility for the emotional well-being of the Other? Am I taking on his or her journey at the expense of my own, and if so, why?  
-
    5. Am I living muy life in such a fashion that I will be happy with the consequences of my choices? If not, when do I plan to start? What fears, alck of permission or old behaviors block me from living my life?  
-
    6. In what ways do I seek to avoid suffering?"
 
 - p. 135 "The radical willingness to let be, rather than control, requires great courage and constitutes the ultimate respect for the Mystery."
