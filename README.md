@@ -81,7 +81,7 @@
    "A: Well I certainly appreciate that, sir.  
    P: You may appreciate that, but most people don't."
 
-- metonymy interpreted literally (failure of deferred reference). 
+- metonymy interpreted literally (failure of deferred reference).  
    "A: Isn't that where you piece together the face of the criminal?  
    P: Not entirely, no. We're only able to piece together the appearance of the face of the criminal."
 
