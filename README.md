@@ -24,7 +24,7 @@
 
 - p. 82 "As we tend to avoid what makes us uncomfortable, we are seldom conscious of the way we enacct sundry power ploys. We may sense our partner's shadowy expressions of power and draw back, accede or resist, but seldom are we free to admit our own power stratagems."
 
-- p. 99 "i. Where do my dependencies show up in the relationship?
+- p. 99 "1. Where do my dependencies show up in the relationship?
    2. What am I asking my partner to do for me that I, as a mature adult, need to be doing for myself?  
    3. How do I repeatedly constrict myself through my historically conditioned attitudes and behavior patterns?  
    4. Am I taking too much responsibility for the emotional well-being of the Other? Am I taking on his or her journey at the expense of my own, and if so, why?  
@@ -36,10 +36,10 @@
 - p. 137 "There is a word for that posture in which one stands awash in ambiguity and affirms it, and that word is 'courage'. There is a word for that experience of reverence for the otherness of the Other, and that word is 'love'."
 
 - p. 138 "When I am with you, we stay up all night.
-		When you're not here, I can't go to sleep.
-		Praise God for these two insomnias!
-		And the difference between them.
-								-- Rumi"
+   When you're not here, I can't go to sleep.  
+   Praise God for these two insomnias!  
+   And the difference between them.  
+   -- Rumi"
 
 ## Deadwood
 
@@ -48,42 +48,42 @@
 - S01E06 "Merrick wanted to put here "gratis". Now is the idea to inform your reader or make him feel like a fucking dunce, huh? I had him put "free"."" -- Al Swearengen, observer of Gricean maxims
 
 - "Al: You did do everything you could E.B., I mean you went to the limit on our offer?
-EB: Everything humanly possible.
-Al: You did go to the limit.
-EB: I went to the limit's precipice.
-Al: Sounds like you _didn't_ go to the limit.
-EB: I held back a few dollars." -- Quantity implicature
+   EB: Everything humanly possible.  
+   Al: You did go to the limit.  
+   EB: I went to the limit's precipice.  
+   Al: Sounds like you _didn't_ go to the limit.  
+   EB: I held back a few dollars." -- Quantity implicature
 
 - S01E03 "e: Something else I know. My knowing what I know and somebody else knowing it, is two entirely different things. 
-d: Mmhmm.
-e: Say somebody thought I saw sumpin I shouldn't have...
-d: Whereabouts?
-e: On a ridge, a man, pushed off or whatever the hell else. If it meant my leaving camp to prove I could mind my own business, it would be a friend who told me that. Instead of throwing me to the pigs. That's my whole philosophy 'n outlook." -- ellsworth & dan, establishing common ground with plausible deniability
+   d: Mmhmm.  
+   e: Say somebody thought I saw sumpin I shouldn't have...  
+   d: Whereabouts?  
+   e: On a ridge, a man, pushed off or whatever the hell else. If it meant my leaving camp to prove I could mind my own business, it would be a friend who told me that. Instead of throwing me to the pigs. That's my whole philosophy 'n outlook." -- ellsworth & dan, establishing common ground with plausible deniability
 
-- "Merrick: It is terribly crowded today. We were just remarking yesterday that [raises voice] it couldn't possibly get any more crowded.
-[people at neighboring table leave]
-Merrick: ...and yet today, it is." -- speech act addressed to overhearers (request to leave the table so Alma Garrett and Sophia can sit down. [Alma nods thanks to Merrick, acknowledging the service.]
+- "Merrick: It is terribly crowded today. We were just remarking yesterday that [raises voice] it couldn't possibly get any more crowded." [people at neighboring table leave]
+   Merrick: ...and yet today, it is." -- speech act addressed to overhearers (request to leave the table so Alma Garrett and Sophia can sit down. [Alma nods thanks to Merrick, acknowledging the service.]
 
 ## Train robbery (Peter Cook and Alan Bennett)
 
 - wrong interpretation of functional relation between constituents of compound nouns:
-"A: Good evening. I'm going to ask you just a few questions about the train robbery.
-P: Good evening. Well, I'd like to make one thing quite clear at the outset. When you speak of a train robbery, this in fact involved no loss of train."
+   "A: Good evening. I'm going to ask you just a few questions about the train robbery.  
+   P: Good evening. Well, I'd like to make one thing quite clear at the outset. When you speak of a train robbery, this in fact involved no loss of train."
 
 - under-informative reply:
-"A: Who do you think may have perpetrated this awful crime?
-P: We believe this to be the work of thieves."
+   "A: Who do you think may have perpetrated this awful crime?  
+   P: We believe this to be the work of thieves."
 
 - sense ambiguity of "responsible":
-"A: So you feel that thieves are responsible?
-P: Good heavens no, I feel that thieves are totally irresponsible, ghastly people who go around snatching our money.
-# sense ambiguity of "appreciate": "Recognize the full worth of" vs "Be grateful for (something)"
-A: Well I certainly appreciate that, sir.
-P: You may appreciate that, but most people don't."
+   "A: So you feel that thieves are responsible?  
+   P: Good heavens no, I feel that thieves are totally irresponsible, ghastly people who go around snatching our money."
+
+- sense ambiguity of "appreciate": 
+   "A: Well I certainly appreciate that, sir.  
+   P: You may appreciate that, but most people don't."
 
 - metonymy interpreted literally (failure of deferred reference)
-"A: Isn't that where you piece together the face of the criminal?
-P: Not entirely, no. We're only able to piece together the appearance of the face of the criminal."
+   "A: Isn't that where you piece together the face of the criminal?  
+   P: Not entirely, no. We're only able to piece together the appearance of the face of the criminal."
 
 ## Old quotes that were just laying around on my computer
 
