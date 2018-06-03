@@ -72,11 +72,11 @@ This is especially likely to happen if you have trouble setting boundaries. Fuzz
 
 - p. 169 You have to trust that your partners want to take care of you -- that given the freedom to do whatever they choose, they will make choices that respect your needs and honor their commitments.
 
-p. 171 Using ["training wheel"] rules to avoid dealing with thorny problmes like jealousy and insecurity can cause us to learn some very bad relationship habits indeed. Even under the best of circumstances, talking about our fears and insecurities is hard. When we talk about our frailties, we become exposed and vulnerable and that is uncomfortable. Relying on rules to deal with these feelings teaches us that we don't have to talk about them, which prevents us from learning the skills we need to find lasting solutions.
+- p. 171 Using ["training wheel"] rules to avoid dealing with thorny problmes like jealousy and insecurity can cause us to learn some very bad relationship habits indeed. Even under the best of circumstances, talking about our fears and insecurities is hard. When we talk about our frailties, we become exposed and vulnerable and that is uncomfortable. Relying on rules to deal with these feelings teaches us that we don't have to talk about them, which prevents us from learning the skills we need to find lasting solutions.
 
-p. 175 Anyone should be able to reopen discussions about an agreement at any time. [...] some people set periodic dates in their calendar when they will review their relationship agreements with each other to make sure they're still working and see if anything needs to change.
+- p. 175 Anyone should be able to reopen discussions about an agreement at any time. [...] some people set periodic dates in their calendar when they will review their relationship agreements with each other to make sure they're still working and see if anything needs to change.
 
-p. 175 When looking at the structures of your relationship, ask yourself regularly: "Are they honest? Are they necessary? Are they kind? Are they respectful? Are they considerate of others?"
+- p. 175 When looking at the structures of your relationship, ask yourself regularly: "Are they honest? Are they necessary? Are they kind? Are they respectful? Are they considerate of others?"
 
 ## Chapter 11 -- Hierarchy and primary/secondary poly
 
