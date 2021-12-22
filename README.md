@@ -1,5 +1,6 @@
 # Quotes from books/films
 
+- [Between the World and Me (Ta-Nehisi Coates)](./between_the_world_and_me.md)
 - [Deadwood](./deadwood.md)
 - [The Eden Project -- In Search of the Magical Other (James Hollis)](./eden_project.md)
 - [The Fire Next Time (James Baldwin)](./fire_next_time.md)
