@@ -1,11 +1,11 @@
 # Quotes from books/films
 
 - [Deadwood](./deadwood.md)
-- [More Than Two -- A practical guide to ethical polyamory (Franklin Veaux and Eve Rickert)](./more_than_two.md)
 - [The Eden Project -- In Search of the Magical Other (James Hollis)](./eden_project.md)
-- [The Undoing Project (Michael Lewis)](./undoing_project.md)
+- [The Fire Next Time (James Baldwin)](./fire_next_time.md)
+- [More Than Two -- A practical guide to ethical polyamory (Franklin Veaux and Eve Rickert)](./more_than_two.md)
 - [Train robbery (Peter Cook and Alan Bennett)](./train_robbery.md)
-
+- [The Undoing Project (Michael Lewis)](./undoing_project.md)
 
 ## Old quotes that were just laying around on my computer
 
